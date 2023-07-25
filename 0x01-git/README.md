@@ -1,2 +1,2 @@
 my second readme
-README update for git
+README update fron github.com
